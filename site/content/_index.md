@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Willkommen bei Rooftop Design
+subtitle: art direction and design
 image: img/mbr-3-1620x1080.jpg
 blurb:
   heading: Why Kaldi?
